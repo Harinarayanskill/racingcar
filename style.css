@@ -1,5 +1,5 @@
 #back{
-    background:  url('./img/bg1.jpg');
+    background:  url('/bg1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -9,7 +9,7 @@
     height: 560px;
 }
 #road{
- background: url('./img/download.png');
+ background: url('/download.png');
  background-attachment: fixed;
  
     width: auto;
